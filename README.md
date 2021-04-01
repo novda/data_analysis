@@ -4,4 +4,4 @@ A manager at the bank is disturbed with more and more customers leaving their cr
 
 This model predict will the customer churn? 
 
-link to kaggle: https://www.kaggle.com/sakshigoyal7/credit-card-customers
+Link to kaggle: https://www.kaggle.com/sakshigoyal7/credit-card-customers
